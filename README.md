@@ -1,3 +1,4 @@
+https://lokeshdhakar.com/projects/color-thief/#examples
 
 # Color Thief
 
